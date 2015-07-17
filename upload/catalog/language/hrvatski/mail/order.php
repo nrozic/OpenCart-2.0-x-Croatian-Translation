@@ -1,0 +1,35 @@
+<?php
+// Text
+$_['text_new_subject']          = '%s - NArudžba %s';
+$_['text_new_greeting']         = 'Hvala Vam na interesu za %s proizvode. Vaša narudžba je zaprimljena i biti će obrađena kad uplata bude proknjižena na naš račun.';
+$_['text_new_received']         = 'ZAprimili ste novu narudžbu.';
+$_['text_new_link']             = 'ZA pregled narudžbe kliknite na link u nastavku:';
+$_['text_new_order_detail']     = 'Detalji narudžbe';
+$_['text_new_instruction']      = 'Upute';
+$_['text_new_order_id']         = 'Broj narudžbe:';
+$_['text_new_date_added']       = 'Datum narudžbe:';
+$_['text_new_order_status']     = 'Status narudžbe:';
+$_['text_new_payment_method']   = 'Načina plaćanja:';
+$_['text_new_shipping_method']  = 'Način isporuke:';
+$_['text_new_email']  			= 'Email:';
+$_['text_new_telephone']  		= 'Telefon:';
+$_['text_new_ip']  				= 'IP adresa:';
+$_['text_new_payment_address']  = 'Adresa na računu';
+$_['text_new_shipping_address'] = 'Adresa za dostavu';
+$_['text_new_products']         = 'Proizvodi';
+$_['text_new_product']          = 'Proizvod';
+$_['text_new_model']            = 'Model';
+$_['text_new_quantity']         = 'Količina';
+$_['text_new_price']            = 'Cijena';
+$_['text_new_order_total']      = 'Ukupni iznos na narudžbi';
+$_['text_new_total']            = 'Ukupno';
+$_['text_new_download']         = 'KAd uplata bude proknjižena na naš račun, možete kliknuti na link u nastavku kako bi pristupili proizvodima za preuzimanje:';
+$_['text_new_comment']          = 'Komentar uz narudžbu:';
+$_['text_new_footer']           = 'Molimo odgovorite na ovaj email ako imate bilo kakvih pitanja.';
+$_['text_update_subject']       = '%s - Ažuriranje narudžbe %s';
+$_['text_update_order']         = 'Broj narudžbe:';
+$_['text_update_date_added']    = 'Datum narudžbe:';
+$_['text_update_order_status']  = 'Vaša narudžba je ažurirana sa sljedećim statusom:';
+$_['text_update_comment']       = 'Komentar uz narudžbu:';
+$_['text_update_link']          = 'Za pregled narudžbe klinkite na link u nastavku:';
+$_['text_update_footer']        = 'Molimo odgovorite na ovaj email ako imate bilo kakvih pitanja.';
