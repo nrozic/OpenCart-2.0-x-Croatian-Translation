@@ -1,7 +1,7 @@
 # Croatian translation for OpenCart 2.x
 ----
-![Version](https://img.shields.io/badge/Version-0.1-green.svg?style=flat)](https://github.com/nrozic/OpenCart-2.0-x-Croatian-Translation)
-![Coverage](https://img.shields.io/badge/Coverage-50%-yellow.svg?style=flat)](http://demo.trilium.io/opencart2)
+![Version](https://img.shields.io/badge/Version-0.1-green.svg?style=flat)(https://github.com/nrozic/OpenCart-2.0-x-Croatian-Translation)
+![Coverage](https://img.shields.io/badge/Coverage-50%-yellow.svg?style=flat)(http://demo.trilium.io/opencart2)
 
 ----
 ## Demo
