@@ -16,6 +16,6 @@ $_['text_order']       = 'Povijest narudžbi';
 $_['text_download']    = 'Preuzimanja';
 $_['text_reward']      = 'Nagradni bodovi';
 $_['text_return']      = 'Povrati proizvoda';
-$_['text_transaction'] = 'transakcije';
+$_['text_transaction'] = 'Transakcije';
 $_['text_newsletter']  = 'Newsletter';
 $_['text_recurring']   = 'Ponavljajuće naplate';

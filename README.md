@@ -19,7 +19,7 @@ For now only catalog is translated, but you can expect admin to be translated ve
 ![Add croatian language in OpenCart 2](http://demo.trilium.io/opencart2/oc2-croatian.png)
 
 
-**Language name: ** Hrvatski
+**Language name:** Hrvatski
 
 **Code:** hr
 
