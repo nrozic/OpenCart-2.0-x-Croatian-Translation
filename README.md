@@ -11,7 +11,7 @@ Demo page with this translation is available on [Our demo shop](http://demo.tril
 For now only catalog is translated, but you can expect admin to be translated very soon
 
 ----
-##Instructions
+## Instructions
 
 * Upload content to you web site (no files should be overwritten)
 * Add new language via OpenCart administration (Localization -> languages)
@@ -37,8 +37,6 @@ For now only catalog is translated, but you can expect admin to be translated ve
 ----
 This translation is provided free of charge under the MIT License (MIT)
 
-In other words, I don't care what would you do with this translation, and if your site crashes, sales decreases or it cause end of the world, don't cry to me - you are warned upfront ;)
-
-##Contribution
+## Contribution
 ----
 If you find any errors or typos, please contact me via email info [at] trilium.io
